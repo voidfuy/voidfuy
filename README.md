@@ -6,4 +6,4 @@
 
  <p align="center">
    ⠀⠀
-   ${\textsf{\color{#FFA500} ᛝch enc 　+ 　ask 4 discord 　+ 　sys }}$<br><img width="399" height="40"
+   ${\textsf{\color{#FFA500} ᛝch enc 　+ 　ask 4 discord}}$<br><img width="399" height="40"
