@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/e20139be844d027235fad9336118edc6/f42748b2338cc4ef-1c/s640x960/024baebad7ed2e2431a44c120cd3a485120b3713.pnj" width="800" />
- 
+
  <p align="center">
   <img src="https://64.media.tumblr.com/e022ebd6ec62622c6f49a8cb0ae29a04/f42748b2338cc4ef-54/s2048x3072/16c7a4230bdd0091b51d09fd69a41399743c675b.pnj" width="400" />
   <p align="center">
